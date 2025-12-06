@@ -1,0 +1,15 @@
+# CMake / CLion
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+.idea/
+
+# binaries
+*.out
+*.exe
+*.o
+
+# OS
+.DS_Store
